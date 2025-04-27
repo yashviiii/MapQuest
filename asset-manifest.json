@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MapQuest/static/css/main.bac1718f.css",
-    "main.js": "/MapQuest/static/js/main.63ef6b75.js",
+    "main.js": "/MapQuest/static/js/main.a9fedf82.js",
     "static/js/453.6bf59f5f.chunk.js": "/MapQuest/static/js/453.6bf59f5f.chunk.js",
     "index.html": "/MapQuest/index.html",
     "main.bac1718f.css.map": "/MapQuest/static/css/main.bac1718f.css.map",
-    "main.63ef6b75.js.map": "/MapQuest/static/js/main.63ef6b75.js.map",
+    "main.a9fedf82.js.map": "/MapQuest/static/js/main.a9fedf82.js.map",
     "453.6bf59f5f.chunk.js.map": "/MapQuest/static/js/453.6bf59f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bac1718f.css",
-    "static/js/main.63ef6b75.js"
+    "static/js/main.a9fedf82.js"
   ]
 }
